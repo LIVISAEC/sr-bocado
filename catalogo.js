@@ -48,7 +48,7 @@ window.SR_BOCADO = {
     {id:'cafe-espresso', categoria:'Bebidas de charla', nombre:'Café Espresso', descripcion:'Café espresso.', precio:2.00, foto:'', icono:'☕', etiqueta:''},
     {id:'te-caliente', categoria:'Bebidas de charla', nombre:'Té Caliente', descripcion:'Té caliente.', precio:1.50, foto:'', icono:'🍵', etiqueta:''},
     {id:'chocolate-caliente', categoria:'Bebidas de charla', nombre:'Chocolate Caliente', descripcion:'Chocolate caliente.', precio:3.00, foto:'', icono:'☕', etiqueta:''},
-    {id:'cinnamon-rolls', categoria:'Postres', nombre:'Cinnamon Rolls', descripcion:'Rollos de canela.', precio:3.50, foto:'', icono:'🥐', etiqueta:''},
+    {id:'cinnamon-rolls', categoria:'Postres', nombre:'Cinnamon Rolls', descripcion:'Rollos de canela.', precio:3.50, foto:'imagenes/cinnamon-rolls.png', icono:'🥐', etiqueta:''},
     // BEBIDAS DE CELEBRACIÓN
     {id:'jarra-sangria', categoria:'Bebidas de celebración', nombre:'Jarra de Sangría', descripcion:'Jarra de sangría.', precio:18.00, foto:'', icono:'🍷', etiqueta:''},
     {id:'media-jarra-sangria', categoria:'Bebidas de celebración', nombre:'Media Jarra de Sangría', descripcion:'Media jarra de sangría.', precio:12.00, foto:'', icono:'🍷', etiqueta:''},
