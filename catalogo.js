@@ -11,7 +11,7 @@ window.SR_BOCADO = {
     // HAMBURGUESAS SENCILLAS: pan brioche, cheddar, vegetales frescos y salsas de la casa.
     {id:'sencilla-res', categoria:'Hamburguesas sencillas', nombre:'Hamburguesa Sencilla de Res', descripcion:'Pan brioche, queso cheddar, vegetales frescos y salsas de la casa. Medallón de res.', precio:6.50, foto:'', icono:'🍔', etiqueta:'SENCILLA'},
     {id:'sencilla-chorizo', categoria:'Hamburguesas sencillas', nombre:'Hamburguesa Sencilla de Chorizo Artesanal', descripcion:'Pan brioche, queso cheddar, vegetales frescos y salsas de la casa. Medallón artesanal de chorizo.', precio:7.50, foto:'', icono:'🍔', etiqueta:'ARTESANAL'},
-    {id:'sencilla-morcilla', categoria:'Hamburguesas sencillas', nombre:'Hamburguesa Sencilla de Morcilla Artesanal', descripcion:'Pan brioche, queso cheddar, vegetales frescos y salsas de la casa. Medallón artesanal de morcilla.', precio:7.50, foto:'', icono:'🍔', etiqueta:'ARTESANAL'},
+    {id:'sencilla-morcilla', categoria:'Hamburguesas sencillas', nombre:'Hamburguesa Sencilla de Morcilla Artesanal', descripcion:'Pan brioche, queso cheddar, vegetales frescos y salsas de la casa. Medallón artesanal de morcilla.', precio:7.50,foto:'imagenes/hamburguesa-sencilla-morcilla.png', icono:'🍔', etiqueta:'ARTESANAL'},
     // HAMBURGUESAS DOBLES: doble porción de carne, doble cheddar, vegetales y salsas.
     {id:'doble-res', categoria:'Hamburguesas dobles', nombre:'Hamburguesa Doble de Res', descripcion:'Pan brioche, doble porción de carne de res, doble queso cheddar, vegetales frescos y salsas de la casa.', precio:10.00, foto:'', icono:'🍔', etiqueta:'DOBLE'},
     {id:'doble-chorizo', categoria:'Hamburguesas dobles', nombre:'Hamburguesa Doble de Chorizo Artesanal', descripcion:'Pan brioche, doble porción de medallón de chorizo artesanal, doble queso cheddar, vegetales frescos y salsas de la casa.', precio:11.50, foto:'', icono:'🍔', etiqueta:'DOBLE'},
@@ -21,7 +21,7 @@ window.SR_BOCADO = {
     {id:'premium-chorizo', categoria:'Hamburguesas premium', nombre:'Hamburguesa Premium de Chorizo Artesanal', descripcion:'Pan brioche, queso cheddar, cebolla caramelizada, tocino y salsas de la casa. Medallón de chorizo artesanal elaborado desde cero.', precio:8.40, foto:'imagenes/hamburguesa-chorizo.png', icono:'🍔', etiqueta:'DE AUTOR'},
     {id:'premium-morcilla', categoria:'Hamburguesas premium', nombre:'Hamburguesa Premium de Morcilla Artesanal', descripcion:'Pan brioche, queso cheddar, cebolla caramelizada, tocino y salsas de la casa. Medallón de morcilla artesanal.', precio:8.40, foto:'', icono:'🍔', etiqueta:'ARTESANAL'},
     // PREMIUM DOBLE
-    {id:'premium-doble-res', categoria:'Hamburguesas premium dobles', nombre:'Hamburguesa Premium Doble de Res', descripcion:'Pan brioche, doble porción de carne de res, doble queso cheddar, tocino, cebolla caramelizada y salsas de la casa.', precio:10.00, foto:'', icono:'🍔', etiqueta:'PREMIUM DOBLE'},
+    {id:'premium-doble-res', categoria:'Hamburguesas premium dobles', nombre:'Hamburguesa Premium Doble de Res', descripcion:'Pan brioche, doble porción de carne de res, doble queso cheddar, tocino, cebolla caramelizada y salsas de la casa.', precio:10.00, foto:'imagenes/premium-doble-res.png', icono:'🍔', etiqueta:'PREMIUM DOBLE'},
     {id:'premium-doble-chorizo', categoria:'Hamburguesas premium dobles', nombre:'Hamburguesa Premium Doble de Chorizo Artesanal', descripcion:'Pan brioche, doble porción de chorizo artesanal, doble queso cheddar, tocino, cebolla caramelizada y salsas de la casa.', precio:11.50, foto:'', icono:'🍔', etiqueta:'PREMIUM DOBLE'},
     {id:'premium-doble-morcilla', categoria:'Hamburguesas premium dobles', nombre:'Hamburguesa Premium Doble de Morcilla Artesanal', descripcion:'Pan brioche, doble porción de morcilla artesanal, doble queso cheddar, tocino, cebolla caramelizada y salsas de la casa.', precio:11.50, foto:'', icono:'🍔', etiqueta:'PREMIUM DOBLE'},
     // ACOMPAÑAMIENTOS Y OTROS PLATOS
@@ -37,7 +37,7 @@ window.SR_BOCADO = {
     {id:'colas', categoria:'Bebidas frescas', nombre:'Colas', descripcion:'Refresco gaseoso. Sabor por confirmar.', precio:1.90, foto:'', icono:'🥤', etiqueta:''},
     {id:'agua', categoria:'Bebidas frescas', nombre:'Agua', descripcion:'Agua.', precio:2.00, foto:'', icono:'💧', etiqueta:''},
     {id:'agua-gas', categoria:'Bebidas frescas', nombre:'Agua con Gas', descripcion:'Agua con gas.', precio:2.00, foto:'', icono:'💧', etiqueta:''},
-    {id:'jugo-frutas', categoria:'Bebidas frescas', nombre:'Jugo de Frutas', descripcion:'Jugo de frutas. Sabor por confirmar.', precio:2.60, foto:'', icono:'🧃', etiqueta:''},
+    {id:'jugo-frutas', categoria:'Bebidas frescas', nombre:'Jugo de Frutas', descripcion:'Jugo de frutas. Sabor por confirmar.', precio:2.60,foto:'imagenes/jugos-frutas.png', icono:'🧃', etiqueta:''},
     {id:'milkshake-frutas', categoria:'Bebidas frescas', nombre:'Milk Shake de Frutas', descripcion:'Milk shake de frutas. Sabor por confirmar.', precio:2.90, foto:'', icono:'🥤', etiqueta:''},
     {id:'milkshake-chocolate', categoria:'Bebidas frescas', nombre:'Milk Shake de Chocolate', descripcion:'Milk shake de chocolate.', precio:2.90, foto:'', icono:'🥤', etiqueta:''},
     {id:'milkshake-cafe', categoria:'Bebidas frescas', nombre:'Milk Shake de Café', descripcion:'Milk shake de café.', precio:2.90, foto:'', icono:'🥤', etiqueta:''},
@@ -57,10 +57,10 @@ window.SR_BOCADO = {
     {id:'cerveza-club-verde', categoria:'Bebidas de celebración', nombre:'Cerveza Club Verde', descripcion:'Cerveza Club Verde.', precio:4.00, foto:'', icono:'🍺', etiqueta:''},
     {id:'cerveza-corona', categoria:'Bebidas de celebración', nombre:'Cerveza Corona', descripcion:'Cerveza Corona.', precio:5.00, foto:'', icono:'🍺', etiqueta:''},
     // CÓCTELES
-    {id:'margarita-maracuya', categoria:'Cócteles', nombre:'Margarita Frozen Maracuyá', descripcion:'Margarita frozen de maracuyá.', precio:7.50, foto:'', icono:'🍹', etiqueta:''},
+    {id:'margarita-maracuya', categoria:'Cócteles', nombre:'Margarita Frozen Maracuyá', descripcion:'Margarita frozen de maracuyá.', precio:7.50, foto:'imagenes/margarita-maracuya.png', icono:'🍹', etiqueta:''},
     {id:'margarita-mora', categoria:'Cócteles', nombre:'Margarita Frozen Mora', descripcion:'Margarita frozen de mora.', precio:7.50, foto:'', icono:'🍹', etiqueta:''},
     {id:'margarita-frutilla', categoria:'Cócteles', nombre:'Margarita Frozen Frutilla', descripcion:'Margarita frozen de frutilla.', precio:7.50, foto:'', icono:'🍹', etiqueta:''},
-    {id:'margarita-clasico', categoria:'Cócteles', nombre:'Margarita Frozen Clásico', descripcion:'Margarita frozen clásica.', precio:6.50, foto:'', icono:'🍹', etiqueta:''},
+    {id:'margarita-clasico', categoria:'Cócteles', nombre:'Margarita Frozen Clásico', descripcion:'Margarita frozen clásica.', precio:6.50, foto:'imagenes/margarita-clasica.png', icono:'🍹', etiqueta:''},
     {id:'tequila-sunrise', categoria:'Cócteles', nombre:'Tequila Sunrise', descripcion:'Tequila Sunrise.', precio:5.00, foto:'', icono:'🍹', etiqueta:''},
     {id:'vodka-naranja', categoria:'Cócteles', nombre:'Vodka Naranja', descripcion:'Vodka naranja.', precio:5.00, foto:'', icono:'🍹', etiqueta:''},
     {id:'vodka-bocado', categoria:'Cócteles', nombre:'Vodka Bocado', descripcion:'Vodka Bocado.', precio:5.00, foto:'', icono:'🍹', etiqueta:''},
