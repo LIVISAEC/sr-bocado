@@ -34,7 +34,7 @@ window.SR_BOCADO = {
     {id:'spaghetti-pesto', categoria:'Acompañamientos y platos', nombre:'Spaghetti al Pesto', descripcion:'Spaghetti al pesto.', precio:6.50, foto:'', icono:'🍝', etiqueta:''},
     {id:'panini', categoria:'Acompañamientos y platos', nombre:'Panini', descripcion:'Pan ciabatta con salsa de pizza, queso mozzarella, un toque de orégano, jamón y aceitunas.', precio:7.50, foto:'', icono:'🥪', etiqueta:''},
     // BEBIDAS FRESCAS
-    {id:'colas', categoria:'Bebidas frescas', nombre:'Colas', descripcion:'Refresco gaseoso. Sabor por confirmar.', precio:1.90, foto:'', icono:'🥤', etiqueta:''},
+    {id:'colas', categoria:'Bebidas frescas', nombre:'Colas', descripcion:'Refresco gaseoso. Sabor por confirmar.', precio:1.90, foto:'imagenes/coca-cola.webp', icono:'🥤', etiqueta:''},
     {id:'agua', categoria:'Bebidas frescas', nombre:'Agua', descripcion:'Agua.', precio:2.00, foto:'', icono:'💧', etiqueta:''},
     {id:'agua-gas', categoria:'Bebidas frescas', nombre:'Agua con Gas', descripcion:'Agua con gas.', precio:2.00, foto:'', icono:'💧', etiqueta:''},
     {id:'jugo-frutas', categoria:'Bebidas frescas', nombre:'Jugo de Frutas', descripcion:'Jugo de frutas. Sabor por confirmar.', precio:2.60,foto:'imagenes/jugos-frutas.png', icono:'🧃', etiqueta:''},
